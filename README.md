@@ -1,10 +1,13 @@
 # ecm251-2021-lab2
 Repositório criado para a disciplina Linguagens I.
 
-# Desenvolvedora:
-## Julia Fernandes Santana
+[comentario]: <> (Isso é um comentario)
 
-# Linguagens e Frameworks:
+## Desenvolvedora
+- Julia Fernandes Santana
+
+## Linguagens e Frameworks
+
 - Java
 - Python
 - C
