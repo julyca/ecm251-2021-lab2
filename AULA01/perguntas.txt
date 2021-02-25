@@ -1,0 +1,16 @@
+1. onde esta o jdk
+Program Files (x86)\Amazon Corretto\jdk11.0.10_9
+
+2. caminho até o java e o javac
+
+3. como compilamos um programa em linha de comando
+
+4. como executamos esse programa?
+
+5. o que são variaveis de ambiente?
+
+6. qualquer um pode criar variaveis de ambiente?
+
+7. como criar uma variavel de ambiente?
+
+8. o que é o JAVA_HOME?
