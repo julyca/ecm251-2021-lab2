@@ -6,7 +6,7 @@ Repositório criado para a disciplina Linguagens I.
 
 ## Como rodar o código?
 
-Na pasta *AULA02\src\santana.fernandes.julia\bin* :
+Na pasta *AULA0X\src\santana.fernandes.julia\bin* :
 
     javac -d bin Arquivo.java
     java -cp caminho\global\para\bin package.Arquivo
